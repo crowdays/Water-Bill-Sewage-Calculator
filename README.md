@@ -1,0 +1,16 @@
+# Water-Bill-Sewage-Calculator
+This Ruby code is designed to process customer data from an input file and calculate the billing amount based on their water usage. The output is then written to an output file.
+
+The following color codes have been defined for the output:
+
+"\e[36m" for turquoise text
+"\e[34m" for blue text
+"\e[35m" for purple text
+"\e[0m" for stopping the color.
+The code uses the Date module to get the current date and time. There are also several counters used to keep track of the number of customers, valid and invalid bills, total billing amounts, and pages printed.
+
+The calculate_bill method is used to perform the calculations necessary for determining the billing amount based on water usage. The method takes the last and current meter readings as arguments and returns the output formatted as per the specified format.
+
+The input and output files are opened using File.open. The input file is then processed line by line, and the values are extracted from each line. The calculate_bill method is called with the last and current readings, and the billing amount is calculated. If the billing amount is rejected, it is counted separately, and the output is written to the output file with the appropriate text formatting.
+
+Finally, the output is written to the output file, and the appropriate counters are incremented to keep track of the total number of customers, valid and invalid bills, and total billing amounts. The number of pages printed is also counted, and the appropriate output is written to the output file.
