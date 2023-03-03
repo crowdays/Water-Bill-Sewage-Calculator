@@ -1,0 +1,299 @@
+|PAGE: 1                                                                |
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51133                METER NUMBER       11036
+      NEW READING    90000                                                 
+      OLD READING    89900                                                 
+
+                     -----                                              
+      WATER USAGE      100                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.04       
+                                                        -----------     
+                                             TOTAL DUE  $    16.04    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51134                METER NUMBER       11037
+      NEW READING    83625                                                 
+      OLD READING    83525                                                 
+
+                     -----                                              
+      WATER USAGE      100                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.04       
+                                                        -----------     
+                                             TOTAL DUE  $    16.04    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51135                METER NUMBER       11038
+      NEW READING    93650                                                 
+      OLD READING    93450                                                 
+
+                     -----                                              
+      WATER USAGE      200                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.07       
+                                                        -----------     
+                                             TOTAL DUE  $    16.07    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51136                  METER NUMBER      11039             
+      NEW READING    75300                                                 
+      OLD READING    75000                                                 
+                      -----
+      WATER USAGE       300
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|PAGE: 2                                                                |
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51137                  METER NUMBER      11040             
+      NEW READING    102900                                                 
+      OLD READING    102400                                                 
+                      -----
+      WATER USAGE       500
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51138                  METER NUMBER      11041             
+      NEW READING    124056                                                 
+      OLD READING    123456                                                 
+                      -----
+      WATER USAGE       600
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51139                  METER NUMBER      11042             
+      NEW READING    80300                                                 
+      OLD READING    80000                                                 
+                      -----
+      WATER USAGE       300
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51140                METER NUMBER       11043
+      NEW READING    94700                                                 
+      OLD READING    94500                                                 
+
+                     -----                                              
+      WATER USAGE      200                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.07       
+                                                        -----------     
+                                             TOTAL DUE  $    16.07    
+|-----------------------------------------------------------------------|
+|PAGE: 3                                                                |
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51141                METER NUMBER       11044
+      NEW READING    75200                                                 
+      OLD READING    75000                                                 
+
+                     -----                                              
+      WATER USAGE      200                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.07       
+                                                        -----------     
+                                             TOTAL DUE  $    16.07    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51142                METER NUMBER       11045
+      NEW READING    96200                                                 
+      OLD READING    96000                                                 
+
+                     -----                                              
+      WATER USAGE      200                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.07       
+                                                        -----------     
+                                             TOTAL DUE  $    16.07    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51143                  METER NUMBER      11046             
+      NEW READING    104000                                                 
+      OLD READING    103500                                                 
+                      -----
+      WATER USAGE       500
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51144                  METER NUMBER      11047             
+      NEW READING    124056                                                 
+      OLD READING    123456                                                 
+                      -----
+      WATER USAGE       600
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|PAGE: 4                                                                |
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51145                METER NUMBER       11048
+      NEW READING    80200                                                 
+      OLD READING    80000                                                 
+
+                     -----                                              
+      WATER USAGE      200                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.07       
+                                                        -----------     
+                                             TOTAL DUE  $    16.07    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51146                METER NUMBER       11049
+      NEW READING    94600                                                 
+      OLD READING    94500                                                 
+
+                     -----                                              
+      WATER USAGE      100                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.04       
+                                                        -----------     
+                                             TOTAL DUE  $    16.04    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51147                METER NUMBER       11050
+      NEW READING    75200                                                 
+      OLD READING    75000                                                 
+
+                     -----                                              
+      WATER USAGE      200                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.07       
+                                                        -----------     
+                                             TOTAL DUE  $    16.07    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51148                METER NUMBER       11051
+      NEW READING    96100                                                 
+      OLD READING    96000                                                 
+
+                     -----                                              
+      WATER USAGE      100                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.04       
+                                                        -----------     
+                                             TOTAL DUE  $    16.04    
+|-----------------------------------------------------------------------|
+|PAGE: 5                                                                |
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51149                  METER NUMBER      11052             
+      NEW READING    104000                                                 
+      OLD READING    103500                                                 
+                      -----
+      WATER USAGE       500
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51150                METER NUMBER       11053
+      NEW READING    10450                                                 
+      OLD READING    10345                                                 
+
+                     -----                                              
+      WATER USAGE      105                                              
+                                          WATER CHARGE  $    16.00       
+                                         SEWAGE CHARGE  $    0.04       
+                                                        -----------     
+                                             TOTAL DUE  $    16.04    
+|-----------------------------------------------------------------------|
+|-----------------------------------------------------------------------|
+                            Daly Water Company                          
+                            February 28, 2023                           
+                                                                        
+                                                                        
+      CUSTOMER       51151                  METER NUMBER      11054             
+      NEW READING    104000                                                 
+      OLD READING    103500                                                 
+                      -----
+      WATER USAGE       500
+                                            WATER CHARGE  --REJECTED--
+                                           SEWAGE CHARGE  --REJECTED--
+|-----------------------------------------------------------------------|
+|PAGE: 6                                                                |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|------------------------------End of Report----------------------------|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|                            Daly Water Company                         |
+|                            February 28, 2023                          |
+|                                                                       |
+|                            SUMMARY STATEMENT                          |
+|                                                                       |
+|Valid Bills Processed          11                                      |
+|Rejected Bills Processed       8                                       |
+|                              ---                                      |
+|TOTAL BILLS PROCESSED          19   TOTAL USAGE CHARGES $  176.00      |
+|-----------------------------------------------------------------------|
